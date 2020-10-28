@@ -3,6 +3,7 @@
   
   # Description
   This is a simple not taking application using server side javaScript.
+  The app can be deployed on Heroku at the following URL https://salty-earth-18163.herokuapp.com/.
   
   # Table of Contents 
   
